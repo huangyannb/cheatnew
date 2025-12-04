@@ -1,4 +1,4 @@
 {
-  "app_version": "4.2",  // 你的最新版本号（比如本地程序是1.0.0，这里填更高的）
-  "update_url": ""         // 先空着，上传更新包后再补
+  "app_version": "4.2",
+  "update_url": "https://github.com/huangyannb/cheatnew/raw/refs/heads/main/FuckCheat%E5%92%8C%E5%B9%B34.2%20(1).sh"
 }
